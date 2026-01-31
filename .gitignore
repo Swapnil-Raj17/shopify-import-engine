@@ -1,12 +1,18 @@
-# Python virtual environment
+# Python
+__pycache__/
+*.pyc
+*.pyo
 venv/
+.env
 
-# Backend secrets
-backend/.env
+# Node
+node_modules/
+dist/
 
-# Node dependencies
-frontend/node_modules/
-
-# macOS junk
+# OS
 .DS_Store
+
+# IDE
+.vscode/
+.idea/
 
