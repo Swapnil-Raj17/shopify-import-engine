@@ -1,0 +1,12 @@
+# Python virtual environment
+venv/
+
+# Backend secrets
+backend/.env
+
+# Node dependencies
+frontend/node_modules/
+
+# macOS junk
+.DS_Store
+

@@ -1,0 +1,7 @@
+ID,Handle,Title,Body (HTML),Vendor,Product Type,Tags,Variant ID,Variant SKU,Variant Price,Variant Compare At Price,Variant Inventory Qty,Option1 Value,Option2 Value,Option3 Value,Variant Weight
+1,blue-shirt,Blue Shirt,,Nike,Shirts,"clothing,tshirt",101,BS-S,19.99,24.99,100,S,,,
+1,blue-shirt,Blue Shirt,,Nike,Shirts,"clothing,tshirt",102,BS-M,19.99,24.99,50,M,,,
+2,red-hat,Red Hat,,HatBrand,Hats,"accessories,hat",201,RH-RED,15.99,,30,Red,,,
+3,green-socks,Green Socks,,SockBrand,Socks,"clothing,socks",301,GS-M,5.99,7.99,200,M,,,
+3,green-socks,Green Socks,,SockBrand,Socks,"clothing,socks",302,GS-L,5.99,7.99,150,L,,,
+
